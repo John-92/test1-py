@@ -4,4 +4,5 @@
 # @File: TEST.py
 # @Software: PyCharm
 a="hhh"
-print("hhe%s"%a)
+b="bbb"
+print("hhe%s,%s"%(a,b))
